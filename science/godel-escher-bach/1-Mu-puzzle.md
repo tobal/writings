@@ -1,0 +1,18 @@
+# 1. fejezet - Az MU-rejtvény
+
+A könyv minden fejezete egy bevezető “novellával” indít, ami az adott fejezetben tárgyalt témát vezeti fel egy dialógus formájában. A dialógusok visszatérő szereplői Akhilleusz és a Teknős, akiket Zénón híres mozgási paradoxonjának tanmeséjéből ismerhetünk. További érdekessége ezeknek a párbeszédeknek, hogy szerkezetükben mindig követik Bach valamelyik művét, az egyes szereplők bekezdései mindig az adott zenemű egy-egy szólamát szimbolizálják.
+
+[![Bach three part invention][three-invention-yt-image]][three-invention-video]
+
+Az első fejezet felvezető novellája Bach háromszólamú invencióin  alapul, a három szólamot Akhilleusz, a Teknős, majd később bekapcsolódva Zénón “szólaltatja meg”. A témát Zénón mozgási paradoxonjai szolgáltatják, amelyek elviekben a mozgás lehetetlenségét hivatottak bizonyítani, de egy zen köan-ra és egy Echer rajzra is utalás történik a dialógus során. A paradoxon lényege, hogy ha kettejük versenyt futnának (logikusan a Teknős némi előnnyel indulva), Akhilleusz, bármennyivel is gyorsabb a teknősnél, sosem érheti utól, mert amennyi idő alatt Akhilleusz eljutna a Teknős jelenlegi helyére, addig a Teknős előre halad valamennyit, és bármely kicsi is ez a távolság (és egyre kisebb), ez a végtelenségig folytatható.
+
+Mint látható, ez a rövid párbeszéd is több különböző szinten valósít meg izomorfizmust az utána következő fejezet(ek) témáival, továbbá rávilágít arra a furcsaságra, hogy mint ahogy a mozgás lehetetlennek tűnik a Zénón paradoxon alapján, ugyanúgy tűnik lehetetlennek az intelligens gondolkodás és az öntudat Gödel tétele alapján, mégis tudjuk, hogy egyik sem lehetetlen.
+
+A fejezet maga egy rövid bevezetést tartalmaz a formális rendszerek alapelveibe. Egy nagyon egyszerű formális rendszert, az MIU rendszert ismerteti, amelynek három szimbóluma, egy axiómája és három levezetési szabálya van. Ismerteti a kapcsolódó fogalmakat (karakterlánc, tétel, levezetés, jól formáltság, döntési eljárás), majd feltesz egy rejtvényt az olvasó számára: állítsa elő az MU karakterláncot a kiindulási axiómából a levezetési szabályok alapján. Az MU sztring egy újabb ügyes utalán egy híres zen köan-ra.
+
+A fejezet igazi mondanivalója az, hogy rámutat a pusztán mechanikus (M) és az intelligens (I) gondolkodás közötti különbségre. A fenti rejtvénynek ugyanis nincs megoldása, erre viszont pusztán mechanikus gondolkodás útján (vagyis hogy “ész nélkül” alkalmazzuk a levezetési szabályokat egymás után, hátha közelebb jutunk a megoldáshoz) nem juthatunk el. Egy gép tipikusan csak ilyen mechanikus gondolkodásra képes. Persze beleprogramozhatjuk, hogy egy idő után vegye észre, hogy “csak körbe körbe jár”, és álljon le, de a gép ekkor is csak olyan visszatérő mintázatokat képes észlelni, amit mi előtte beleprogramoztunk.
+
+Egy ember viszont, aki képes intelligensen gondolkodni, képtelen arra, hogy ne vegye észre a visszatérő mintázatokat. Ezek után a szabályok mechanikus alkalmazása helyett elkezdi magukat a szabályokat vizsgálni abból a szempontból, hogy azok egyáltalán alkalmasak-e a rejtvény megoldására, majd rájön, hogy nem. Ezzel úgymond kilép a rendszerből, és a rendszert magát kezdi vizsgálni, ezzel öntudatlanul is feljebb lép egy absztrakciós szintet, hogy egy meta-rendszert alkosson a meglévő rendszerből. Ezen kívül a könyv megemlít egy harmadik gondolkodási módot, az “un-módot” (U), ami a kérdések megközelítésének zen módja, és mind közül a legnehezebben megfogható. A zenről egy későbbi fejezetben lesz szó.
+
+[three-invention-yt-image]: http://img.youtube.com/vi/FmsFnGVeLPw/0.jpg
+[three-invention-video]: https://www.youtube.com/watch?v=FmsFnGVeLPw
