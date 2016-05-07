@@ -40,5 +40,11 @@ A másik érdekesség, hogy ha varázshasználóval ásunk a fa alatt, akkor a t
 
 Végezetül álljon itt egy hasznos lista azoknak, akiknek nincs meg a játékhoz mellékelt novella, mégis szeretnének játszani a játékkal. A másolásvédelmet ugyanis úgy oldották meg, hogy a játék bizonyos pontjain rákérdez valamelyik szóra a kézikönyvből. A megkérdezett szavak köre azonban viszonylag szűk, úgyhogy összegyűjtöttem azokat a kérdéseket és válaszul adandó szavakat, amikkel a játék során találkoztam.
 
+11. oldal, 10. sor, 15. szava: béreslegény
+4. oldal, 5. sor, 2. szava: felnyitotta
+5. oldal, 24. sor, 1. szava: páncélozott
+11. oldal, 29. sor, 10. szava: fényjeleket
+14. oldal, 2. sor, 9. szava: működtetjük
+
 
 [kastely-video]: https://www.youtube.com/watch?v=ettPyaCXVR0
