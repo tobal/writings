@@ -32,19 +32,23 @@ Kis hatásvadászattal élve, a játék leghátborzongatóbb része a pince, ame
 
 <img src='img/kut.jpg' width='600'>
 
-A varázshasználó karakterekkel választhatjuk a harcias utat a végigjátszáshoz, de sok helyszínen találunk arra utalást, hogy varázsszertartással is meg lehet ölni a démont. Varázshasználóval játszva megszerezhetjük az aranylapot a kúrban talált kéz markából, amit az első emeleti "vastagrácsos" szobában a bal oldali oszlop "slotjában beinzertálhatjuk", és megnyílik az út a szentély felé. Bár ez nagyon érdekes hely, én nem találtam semmi használhatót bent, ugyanakkor meghalok, ha ki akarok menni. Az 576-ban volt egy tipp erre, elvileg le kell tenni valami tárgyat, de én mindig meghaltam, pedig az összes általam ismert tárggyal kipróbáltam... egyenként...
+A varázshasználó karakterekkel választhatjuk a harcias utat a végigjátszáshoz, de sok helyszínen találunk arra utalást, hogy varázsszertartással is meg lehet ölni a démont. Varázshasználóval játszva megszerezhetjük az aranylapot a kúrban talált kéz markából, amit az első emeleti "vastagrácsos" szobában a bal oldali oszlop "slotjába beinzertálhatjuk", és megnyílik az út a szentély felé. Bár ez nagyon érdekes hely, én nem találtam semmi használhatót bent, ugyanakkor meghalok, ha ki akarok menni. Az 576-ban volt egy tipp erre, elvileg le kell tenni valami tárgyat, de én mindig meghaltam, pedig az összes általam ismert tárggyal kipróbáltam... egyenként...
 
 <img src='img/szentely.jpg' width='600'>
 
-A másik érdekesség, hogy ha varázshasználóval ásunk a fa alatt, akkor a tőr helyett egy olyan üzenet fogad minket, hogy rajzoltunk egy pentagrammát a talajba. Gondolom, hogy ez lenne az első lépése a varázsszertartásnak, de nem sikerült rájönnöm, hogy mi a következő. Ami azt illeti, régebbi végigjátszásaimból emlékszem arra, hogy valahol a kastélyban találtam egy könyvet (naplót?), amiből ki volt tépve egy lap. Sejtésem szerint Gradash ebből tépte ki azt a papírlapot, amit nála találunk, ha megöljük, és amin a pentagrammára való utalást olvashatjuk. Azonban most játszva nem találtam meg ezt a könyvet, de ha sikerülne (már ha egyáltalán jól emlékszek), akkor azt a könyvlappal együtt használva talán kaphatnánk egy újabb nyomot a varázsszertartáshoz. Levélben megkérdeztem a játék készítőit, Olessák Róbertet és Herédi Attilát, hátha ők emlékeznek a varázshasználóval való végigjátszásra, de sajnos ők sem tudtak segíteni. Fórumokon sem találam semmilyen használható infót, úgyhogy most az internet népéhez fordulok, tegyük teljessé a leírást, segítsetek rájönni, mi a megoldás!
+A másik érdekesség, hogy ha varázshasználóval ásunk a fa alatt, akkor a tőr helyett egy olyan üzenet fogad minket, hogy rajzoltunk egy pentagrammát a talajba. Gondolom, hogy ez lenne az első lépése a varázsszertartásnak, de nem sikerült rájönnöm, hogy mi a következő. Ami azt illeti, régebbi végigjátszásaimból emlékszem arra, hogy valahol a kastélyban találtam egy könyvet (naplót?), amiből ki volt tépve egy lap. Sejtésem szerint Gradash ebből tépte ki azt a papírlapot, amit nála találunk, ha megöljük, és amin a pentagrammára való utalást olvashatjuk. Azonban most játszva nem találtam meg ezt a könyvet, de ha sikerülne (már ha egyáltalán jól emlékszek), akkor azt a könyvlappal együtt használva talán kaphatnánk egy újabb nyomot a varázsszertartáshoz. Levélben megkérdeztem a játék íróját, Herédi Attilát, hátha ő emlékszik a varázshasználóval való végigjátszásra, de sajnos ő sem tudott segíteni. Fórumokon sem találam semmilyen használható infót, úgyhogy most az internet népéhez fordulok, tegyük teljessé a leírást, segítsetek rájönni, mi a megoldás!
 
 Végezetül álljon itt egy hasznos lista azoknak, akiknek nincs meg a játékhoz mellékelt novella, mégis szeretnének játszani a játékkal. A másolásvédelmet ugyanis úgy oldották meg, hogy a játék bizonyos pontjain rákérdez valamelyik szóra a kézikönyvből. A megkérdezett szavak köre azonban viszonylag szűk, úgyhogy összegyűjtöttem azokat a kérdéseket és válaszul adandó szavakat, amikkel a játék során találkoztam.
 
-11. oldal, 10. sor, 15. szava: béreslegény
-4. oldal, 5. sor, 2. szava: felnyitotta
-5. oldal, 24. sor, 1. szava: páncélozott
-11. oldal, 29. sor, 10. szava: fényjeleket
-14. oldal, 2. sor, 9. szava: működtetjük
+11 oldal, 10. sor, 15. szava: béreslegény
+
+4 oldal, 5. sor, 2. szava: felnyitotta
+
+5 oldal, 24. sor, 1. szava: páncélozott
+
+11 oldal, 29. sor, 10. szava: fényjeleket
+
+14 oldal, 2. sor, 9. szava: működtetjük
 
 
 [kastely-video]: https://www.youtube.com/watch?v=ettPyaCXVR0
