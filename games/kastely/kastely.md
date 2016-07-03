@@ -50,5 +50,5 @@ Végezetül álljon itt egy hasznos lista azoknak, akiknek nincs meg a játékho
 
 
 [kastely-video]: https://www.youtube.com/watch?v=ettPyaCXVR0
-[game]: https://www.youtube.com/watch?v=ettPyaCXVR0
-[manual]: https://www.youtube.com/watch?v=ettPyaCXVR0
+[game]: http://c64hq.hu/games/k/kastely.zip
+[manual]: http://c64hq.hu/extras/docs/kastely.zip
