@@ -13,6 +13,29 @@ De hogyan hozzák létre az agyban cikázó elektromos kisülések azt a gazdag 
 Figyeljük meg, milyen sok párhuzam és analógia van a hangyák-hangyabojok és a neuronok-agyak között. Az agyban aktiválódó szimbólumok megfeleltethetők a hangyák adott feladat teljesítésére ideiglenesen létrejövő csoportjainak. Mindkét esetben sok-sok, önállóan létező és működő, de egymással kommunikáló "ágens" közös viselkedése hoz létre valami önmagukon túlmutató, magasabb szintű viselkedést. A világ működésére adott elméletem lényege, hogy ez a jelenség minden szinten ismétlődik, felfelé és lefelé egyaránt. Az emberi pszichét az agy neuronjai hozzák létre, egy neuront a benne zajló biokémiai folyamatok (DNS, RNS, riboszómák, enzimek, fehérjék, stb.), a biokémiai folyamatokat a kémiai folyamatok (vegyületek), a vegyületeket az atomok, az atomokat pedig a szubatomi részecskék. Mindegyik szintnek megvannak a maga szabályai, amik bár az alatta lévő szint szabályaiból következnek, mégis értelmezhetők önmagukban.
 Azt gondolom, hogy ha az emberi psziché alatti szintekre igaz mindez, akkor igaz lehet a felette lévő szintekre is. Néhány ilyen felsőbb rendszert már feltérképezett a tudomány. A kollektív kognitív pszichológia az egyik tudományterület, ami ezt kutatja (**[3]**), de én ide sorolom az asztronómiát is (elvégre az is egy nálunk magasabb rendű - nagyobb - rendszer törvényszerűségeit térképezi föl).
 
+# Vázlat
+Ide leírom, hogy milyen sarokpontjai vannak az érvelésnek, és ha az egész megvan, sorrendbe rakom, hogy követhető és logikus legyen.
+
+- Első hittétel: léteznek felsőbb szintek (elvégre miért állnának meg az absztrakciós szintek az embernél? beképzeltség lenne ezt feltételeznünk)
+- Vallások történeti kialakulása (a felsőbb szintek törvényszerűségeinek való megismerésre tett kísérlet)
+- Miért jó nekünk, ha rájövünk a felsőbb szintek törvényeire?
+- Mitől mégis olyan különleges az ember? (öntudat, welcome to the middle, talán mi vagyunk az egyetlen szint, ahol valódi öntudat alakult ki, és ez talán amiatt van, mert jól körülhatárolható testünk, "avatárunk" van)
+- Az öntudat előnyei (intelligencia, vagyis mintafelismerési képesség, emiatt vagyunk képesek "tudományt csinálni")
+- Az öntudat hátrányai (mindenben értelmet, jelentést keresünk, ezért húzunk rá mindenre ideológiát, vallást, stb)
+- Determinizmus? (van-e sors, vagy minden véletlenszerű? látszólag minden random, ugyanakkor a káoszelmélet azt sejteti, hogy mégis determinisztikus a világ - mégha sokan pont az ellenkezőjét látják bele. nem lehet eldönteni, hogy van-e sors, paradoxon)
+- Paradoxonok: vannak-e valóban eldönthetetlen állítások? (neuton és einstein és a gravitáció, egyszerre igaz és hamis állítások, gödel tétel)
+- Fontos-e, hogy egy paradoxon két állítása közül melyik az igaz, vagy mondhatjuk-e azt, hogy mindkettő igaz (ami ugyanazt jelenti, hogy mindkettő hamis)
+- Ezért az egyetlen ésszerű megoldás: a zen megoldás, a no mind (mindent "üres elmével" szemléljünk, annak tekintsük ami, ne aggassunk rájuk címkéket, a címkék és a nyelv csak azért alakultak ki, hogy megkönnyítsék a kommunikációt - ez tette lehetővé nagy embertömegek közös munkáját, vagyis a társadalom kialakulását, szóval a nyelv jó és szükséges, de ne ez alapján döntsük el azt, hogy mi az igaz és mi nem)
+- Az a valószínű, hogy minden véletlenszerű, és csak az ember mintafelismerési képessége miatt hisszük azt, hogy bizonyos történéseknek okuk, jelentésük van - ugyanakkor az is valószínű, hogy bármi történik, az nem történhetett volna másképp, ami azt jelenti, hogy létezhet sors, de egy ember sorsának nincs előre meghatározott jelentése, csakis az, amit maga az ember ad neki
+
+- Egy érdekes csavar (furcsa hurok): a kvantummechanika szerint a fizikai valóságot a tudat hozza létre (hogy melyik szintű tudat? azt nem tudni, de az biztos, hogy az ember tudata képes erre)
+- Nem lehet megmondani, hogy a fizikai valóság és a tudat közül melyik létezett hamarabb (ez egy paradoxon, ergo feltételezzük azt, amit már fentebb elmondtunk: mindkettő egyszerre jött létre, vagy mindig is létezett)
+- Ez ugyanolyan minta, mint a sejtnél: a DNS nem létezhet a sejttest nélkül, és fordítva, ezért valszeg egyszerre jöttek létre
+- Ez a minta sok más helyen is megfigyelhető, ezt nevezem én "1,2,3" mintának, ami szintén középen kezdődik: 2 dolog kell, hogy valami újat létrehozzunk (anya-apa), a kettőből viszont valami náluk különböző, harmadik dolog jön létre, ám a végén oda jutunk, hogy minden egy. Az egy azonban önmagában nem "él", nem létező, ezért ketté kell szakadnia, hogy valami új jöhessen létre
+- Miért kell az új? Mert az univerzumban egy állandó dolog van: a változás. Változás nélkül nincs élet, nincs létezés, nincs valóság. Ha az univerzumban minden egy lenne, egy homogén massza, akkor nem létezne semmi. A semmi viszont egyenértékű a mindennel (elvégre a semmi az bármi lehet, a lehetőségek végtelen tárháza), emiatt hitem szerint törvényszerű, hogy a semmiből létrejöjjön valami. Valami pedig úgy jön létre, hogy az egy ketté szakad (ld. yin-yang)
+- Mindez nagyon zavaros és ezoterikus, ezért sok-sok a valóságban létező, tudományosan kutatott területről kell példákat mutatni, hogy érthető legyen
+
+- Az egész gondolatlánc végére oda akarok eljutni, hogy valójában az lenne mindenkinek a legjobb, ha mindenki megszabadulna a félelmeitől, nem félnénk egymástól, nem feltételeznénk másról azt, hogy rosszat akar nekünk, és mindenki azt tenné, amit leginkább szeretne. Az a sejtésem, hogy az ismert tényekből logikusan levezethető ez utóbbi következtetés.
 
 # Referenciák
 
