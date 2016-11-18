@@ -1,0 +1,23 @@
+
+Angular 1.0 security
+
+rendering:
+- read html
+- interpret directives
+- data retrieved via dynamic json resources
+
+angular is more secure than react
+
+declarative prog for UI
+imperative for business logic
+
+security:
+- strict contextual escaping (stop xss)
+- html sanitization
+- json hijacking protection
+- double cookie submit csrf prot
+- content security support
+
+automatic escaping to stop xss
+- it's hard to get right
+- escaping is -> makes data out of executable code
