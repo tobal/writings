@@ -1,0 +1,40 @@
+
+classic: blah' or '1'='1
+
+string assembly is the problem, so use parameterized query
+
+attacker can:
+- data retrieval
+- data modification
+- database specific exploits
+
+won't work:
+- stored procedure
+- escaping quotes (numerical sqli)
+
+advanced sqli:
+- timing attacks
+- sql server: waitfor delay
+- measure the delay, get data char by char
+
+defense
+- validation is not enough, and hard too
+- it's not the language what matters
+- good: parameterized query -> the database will run the query and bind the parameters in separate steps
+
+configuration:
+- turn off as many features as possible
+- EXECUTE on stored procedures
+- SELECT on system tables
+
+
+Other injections
+
+arbitrary file upload
+- upload a malware
+- overwrite system files
+
+file path traversal attacks
+
+defense: object (file) lookup maps and access control
+- don't use the user input as a real path
