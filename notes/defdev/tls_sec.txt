@@ -1,0 +1,54 @@
+
+What is SSL/TLS/HTTPS
+"All unencrypted traffic is an attack vector"
+
+Secure Sockets Layer - deprecated
+new name -> Transport Layer Security
+HTTPS = HTTP + TLS
+certificates (private/public keys)
+certificate authorities - the authority signs the website cert with their private key - it's trusted now
+CIA - look at the prez
+biggest problem -> internal networks are plain text
+Server side TLS recommended configuration
+ssllabs best practices
+POODLE attack - in SSL v3
+istlsfastyet.com
+
+TLS config
+
+HSTS - Strict transport sec
+forces browser to enforce https
+protects the user, not the website
+the first request is still http
+preload list: central list for preloading, so the first request will be https too (the browser knows the list)
+won't work with self signed certs
+
+Certificate pinning
+In CA we trust
+the CA signs the certs
+then go to evil web server - bad cert, rejected
+an evil CA will sell it's private key, or get hacked
+the evil proxy server can MitM anyone with the private key
+so a CA is a single point of failure
+Pinning: Trust on first use TOFU
+Pinning: store the trusted cert, and verify with it the new certs
+public key pinning
+private authority install disables pinning (cannot be uninstalled)
+
+
+forward secrecy
+TLS_RSA_WITH_AES - no forward secrecy
+TLS_ECDHE_RSA_WITH - is good
+SHA-1 is dead
+
+Implement:
+- everything https
+- hsts
+- pinning
+- ocsp stapling
+- forward secrecy
+
+
+
+Look after
+Lets encrypt
