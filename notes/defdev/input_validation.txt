@@ -1,0 +1,32 @@
+
+you should not rely only on input validation
+it is only a gatekeeper
+
+you should validate:
+- user input
+- os resources
+- external resources
+
+what is user input:
+- http parameters
+- headers
+- cookies
+- body content
+- basically everything
+
+client side vs server side validation
+- client exists to help the user
+- server is the effective layer
+- server exists for preventing malformed data input
+
+Normalization
+
+Serialization
+- very dangerous
+
+Validation methods:
+length check (can mitigate shellcode injection)
+white listing
+black listing (not wise to do)
+type checking
+input rejection
