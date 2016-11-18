@@ -1,0 +1,42 @@
+
+REST security
+
+Level 0: RPC
+
+Level 1: Resources
+individual resources
+never put sensitive data in a url (resource endpoint)
+- put it in the payload
+
+Level 2: HTTP verbs
+GET to retrieve data
+POST to modify data
+
+Level 3: Hypermedia controls
+this is why rest is needed
+the response is self describing
+the benefit is that workflows are self documenting
+
+
+Webservice authentication
+
+two layers:
+- authenticate the server with https
+- authenticate the user
+danger: long-lived auth tokens
+
+Access control
+- build a central access control mechanism
+- enforce by activity, not based on roles (don't hardcode roles in the code)
+
+JSON issues
+json hacking - modern browsers not affected
+don't use eval
+to validate json structure: JSON schema
+
+json input validation:
+- validate it is parsable
+- validate data types
+- if the value is string, validate accordingly
+
+JSON web token JWT
