@@ -1,0 +1,34 @@
+
+manipulating the user and using their sessions to do evil stuff
+
+csrf - the browser sends the session id to the authed site from the evit site
+
+check the referer header?
+cryptographically random token
+
+defence:
+- token - requires session state
+- double cookie submit defence
+- crypted token pattern
+
+double submit: header token, httponly, secure flags, then header checking as referer, origin
+token: don't use GET request, don't use predictable value
+
+if you have XSS, CSRF protection doesn't work
+
+
+Clickjacking
+UI redress attack
+
+the attacked site goes into an iframe on the evil site
+SAMEORIGIN and ALLOW-FROM (not every browser supports it)
+
+Timing attack
+SVG black and white filter over the page
+it could get info from an email service by building the screen pixel by pixel
+
+defenses:
+X-Frame-Options
+- DENY
+- SAMEORIGIN
+- ALLOW-FROM
