@@ -1,0 +1,98 @@
+
+improper configuration can be dangerous
+
+methods:
+- get
+- post
+- put
+- head
+- options
+- connect
+- trace (to do session highjack)
+
+Alwazs minimize the attack surface (disable methods)
+
+GET: only used for requests for not sensitive information
+- leaks sensitive data through referer headers
+
+PUT: allows clients to upload files on the web server
+- should be disabled
+
+DELETE: delete files
+- used to deface websites
+- DoS by deleting imortant files
+
+TRACE: used to levarage cross site tracing attacks
+curl -X TRACE -H "Cookie: name-secret" 127.0.0.1
+- leaks cookie value
+- mitigation: at login, bind the session id with the ip of the user
+
+HTTP-only: cookie is not accessable by javascript
+
+"assumption in the mother of all failures" always try it out
+
+
+HTTP security headers
+- content security policy
+- http strict transport
+- x-xss protection (when GET method)
+- x-content-type-options
+- content-type
+- x-frame-options
+
+Content security policy
+CSP should be applied!
+- it limits where resources can load from
+- enable use of eval, inline javascript, inline css
+- hard to remove inline scripts -> nonce (inline scripts working)
+
+HTTP strict transport security
+- MitM mitigation
+- HSTS automatically redirects HTTP to HTTPS
+- the only abusable request is the first
+- the header tells the browser that I always want to use TLS
+- can include all future subdomains - be careful, what if a subdomain doesn't serve TLS?
+- preload - to secure the first request too
+
+XSS-X-protection
+built in XSS protection
+- only works of reflected XSS
+- browser won't render
+
+X-Content-Type-Options
+prevents MIME-sniffing
+- IE can change MIME type, prevents escaping
+
+Content-type
+Know what you expect!
+- it can protect from various attacks
+
+X-frame-options
+Helps to prevent clickjacking
+- not allows framing from other domains
+- "Framebreaking/Framebusting"
+
+Anti caching headers
+- Expire
+- Etag
+- Vary
+- Pragma legacy rule (No-cache)
+- Cache-control
+
+Header injections
+user input in a header
+- response splitting
+- xss
+- header injection
+- open forwards and redidrects
+- and many more attacks
+
+
+How to do XSS with POST
+- create an evil website with a form
+
+
+
+look after:
+BEEF framework (XSS)
+BurpSuite (intercepting proxy)
